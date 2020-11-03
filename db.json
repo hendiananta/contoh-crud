@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "JSON SERVER",
+      "author": "Aldy",
+      "id": 1
+    },
+    {
+      "title": "REACT",
+      "author": "facebook",
+      "id": 2
+    },
+    {
+      "title": "BOOTSTRAP",
+      "author": "css master",
+      "id": 3
+    },
+    {
+      "title": "MEDIUM",
+      "author": "medium",
+      "id": 4
+    },
+    {
+      "title": "OOP",
+      "author": "Hendi",
+      "id": 5
+    },
+    {
+      "title": "Movie List",
+      "author": "Aldy",
+      "id": 7
+    }
+  ]
+}
